@@ -5,8 +5,8 @@
 }
 
 body {
-  background-color: orange;
-  color: #333;
+  background-color: rgb(6, 115, 66);
+  color: #ddd;
   height: 100vh;
   display: flex;
   flex-direction: column;
